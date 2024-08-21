@@ -1,3 +1,4 @@
+<img width="327" alt="Screenshot 2024-08-21 113633" src="https://github.com/user-attachments/assets/a50e5369-3697-48f6-b2f4-1ae98ec751f8">
 Data Used
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
@@ -7,6 +8,7 @@ Data Visualization - PowerBI
 
 **Questions: **
 1. What is the gender breakdown of employees in the company?
+
 2. What is the race/ethnicity breakdown of employees in the company?
 3. What is the age distribution of employees in the company?
 4. How many employees work at headquarters versus remote locations?
